@@ -33,6 +33,8 @@ github_username:  ezrawitsch
 theme: minima
 plugins:
   - jekyll-feed
+imagesurl: "/img/"
+thumbsurl: "/thumbs/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

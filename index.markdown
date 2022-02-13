@@ -1,7 +1,6 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
 ---
 #### In papers, photos, videos, sketches, podcasts, and publications I explore the relationship between people and the places they build. I graduated with a degree in Geography and Urban Studies from the University of North Carolina at Chapel Hill in 2019. ####
